@@ -1,0 +1,11 @@
+name: CSF407_2025_2023A3PS0301H
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - imageio
+  - pip
+  - pip:
+      - numpy

@@ -13,7 +13,7 @@
 This project implements the **Oracle** agent, an intelligent system designed to navigate a $(M \times N)$ grid-type environment with varying hazards. 
 
 ## Scoring Logic & Optimization
-Based on official instructor clarifications, the agent is designed to **minimize** the following cost function to reach the goal at the fastest possible speed:
+The agent is designed to **minimize** the following cost function to reach the goal at the fastest possible speed:
 
 $$Score = \frac{\text{Turn Units} + \text{Time Units}}{\text{Lives}}$$
 
