@@ -3,9 +3,11 @@
 
 
 ## Group Members
-Anurag Padhy - 2023A3PS0301H \n
-Khushal Vardhan Neeli - 2023B4A40680H \n
-Harshit Verma - \n
+1. Anurag Padhy - 2023A3PS0301H
+
+2. KHushal Vardhan Neeli - 2023B4A40680H
+
+3. Harshit Verma - 
 
 ## Project Overview
 This project implements the **Oracle** agent, an intelligent system designed to navigate a $(M \times N)$ grid-type environment with varying hazards. 
@@ -27,12 +29,10 @@ The agent uses a **Priority Queue (Dijkstra-based approach)** to find the path t
 - **Modular Architecture**: Strictly follows the required file structure (`config.py`, `grid_gen.py`, `agent.py`, `visualizer.py`, and `main.py`).
 
 ## Setup Instructions
-1. Create and activate the environment:
+1. Create and activate the environment, run the agent:
    ```bash
    conda create -n ai_test_env python=3.12
    conda activate ai_test_env
-
-2. pip install -r requirements.txt
-
-3. python main.py
+   pip install -r requirements.txt
+   python main.py
 
