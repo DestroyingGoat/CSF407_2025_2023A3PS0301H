@@ -3,9 +3,9 @@
 
 
 ## Group Members
-Anurag Padhy - 2023A3PS0301H
-Khushal Vardhan Neeli - 2023B4A40680H
-Harshit Verma - 
+Anurag Padhy - 2023A3PS0301H \n
+Khushal Vardhan Neeli - 2023B4A40680H \n
+Harshit Verma - \n
 
 ## Project Overview
 This project implements the **Oracle** agent, an intelligent system designed to navigate a $(M \times N)$ grid-type environment with varying hazards. 
